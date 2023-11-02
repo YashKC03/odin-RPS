@@ -1,0 +1,1 @@
+This is the RPS exercise in Odin Project
