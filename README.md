@@ -1,3 +1,3 @@
 # odin-RPS
 
-Completed one half of the ODIN-PROJECT RPS
+This is the Rock, Paper, Scissors Project.
