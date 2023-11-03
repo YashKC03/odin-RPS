@@ -1,3 +1,3 @@
 # odin-RPS
 
-completed one half of the RPS exercise.
+Completed one half of the ODIN-PROJECT RPS
